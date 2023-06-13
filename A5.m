@@ -82,7 +82,7 @@ all_focus_image = zeros(s, t, c);
 depth_map = zeros(s, t);
 w_sum = zeros(s, t);
 
-% best hyperparameters
+% best parameters
 std_1 = 3;
 std_2 = 5;
 
